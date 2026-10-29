@@ -1,0 +1,9 @@
+target/
+*.war
+*.class
+.settings/
+.project
+.classpath
+.idea/
+*.iml
+.vscode/
